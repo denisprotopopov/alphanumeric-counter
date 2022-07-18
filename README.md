@@ -1,9 +1,9 @@
-#Welcome
+# Welcome
 
 ### github-standard-labels [![stability][0]][1]
 
 
-###This is AlphaNumeric counter library.
+### This is AlphaNumeric counter library.
 
 Characters sequence: [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789]
 
