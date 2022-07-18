@@ -5,7 +5,17 @@
 
 ### This is AlphaNumeric counter library.
 
-Characters sequence: [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789]
+If you need generate sequence IDs like
+
+    AAAAAAAAAAAAAAAA
+    AAAAAAAAAAAAAAAB
+    AAAAAAAAAAAAAAAC
+    ...
+    ASFG345SVSFRREVV
+    ...
+    9999999999999999
+
+This uses characters sequence: [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789]
 
 How to use:
 
