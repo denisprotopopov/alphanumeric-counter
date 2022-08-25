@@ -83,8 +83,8 @@ public class SixteenGenerator {
     if (initValue == null) {
       throw new NullPointerException("sequence_characters is null");
     }
-    if (initValue.length() > 16 || initValue.length() < 16) {
-      throw new IllegalArgumentException("length of initValue must be 16");
+    if (initValue.length() < 1) {
+      throw new IllegalArgumentException("length of initValue must be > 0");
     }
     this.id = initValue;
     this.id_init_value = initValue;
